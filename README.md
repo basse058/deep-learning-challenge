@@ -12,7 +12,7 @@ Data Preprocessing
 2. What variable(s) are the features for your model?
    
 3. What variable(s) should be removed from the input data because they are neither targets nor features?
-
+ASK_AMT
 
 Compiling, Training, and Evaluating the Model
 1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
